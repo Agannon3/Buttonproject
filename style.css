@@ -1,0 +1,20 @@
+h2{
+    font-size: 40px;
+    font-family: sofia;
+    color: black;
+}
+
+body {
+    background-color: aquamarine;
+    background-image: url("IMG_3149.jpg");
+    background-image: no-repeat;
+}
+
+button {
+    font-size: 20px;
+    background-color: plum;
+    font-family: Merriweather;
+    height: 300px;
+    width: 500px;
+    border: dashed;
+}
